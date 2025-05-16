@@ -1,0 +1,72 @@
+﻿Station,Station_Name,Agency,Note_re_baseflow_analysis,Additional_notes,BF_good,RO_good,TOT_good,Annual,Seasonal,Count yrs 2000-2022,NumYears,HUC4,Region,PART_mean_in,HySpFx_mean_in,HySpLM_mean_in,HySpSL_mean_in,BFIst_mean_in,BFIMod_mean_in,max,min,mean_bf,Range
+s_05243725,STRAIGHT RIVER NEAR PARK RAPIDS  MN,USGS,TONS of baseflow,Is the GW watershed the same as SW?,yes,yes,yes,yes,yes,23,31,701,central,13.68,13.46,13.25,13.47,13.23,13.21,13.68,13.21,13.38,0.47
+s_05245100,LONG PRAIRIE RIVER AT LONG PRAIRIE  MN,USGS,Snowmelt dominated?  Lots of recharge,Lots of lakes in headwaters; more water now than previous decades,yes,yes,yes,yes,yes,23,51,701,central,5.21,4.99,4.38,4.99,4.42,4.39,5.21,4.38,4.73,0.83
+s_05287890,ELM CREEK NR CHAMPLIN  MN,USGS,"Low flows pretty low, but looks normal",Suburban site.,yes,yes,yes,yes,yes,23,44,701,central,5.55,5.34,3.21,5.35,2.82,2.79,5.55,2.79,4.18,2.76
+s_05288580,RICE CREEK BLW OLD HWY. 8 IN MOUNDS VIEW  MN,USGS,"LOTS of lakes, not good baseflow","Suburban site, lots of lakes",no,no,yes,yes,yes,14,14,701,central,6.18,6.22,5.63,6.23,5.46,5.42,6.23,5.42,5.86,0.81
+s_05288705,SHINGLE CREEK AT QUEEN AVE IN MINNEAPOLIS  MN,USGS,"Flashy from urban runoff, but base looks OK","Urban, BFI looks better than others",yes,yes,yes,yes,yes,21,20,701,central,5.42,5.63,4.49,5.68,3.06,3,5.68,3,4.55,2.68
+s_10067001,"Little Elk River nr Little Falls, CSAH13",Minnesota DNR,Only seasonal data; 1 yr of annual,Wetlands but no obvious lakes,yes,yes,yes,1 year,yes,6,,701,central,,,,,,,,,,
+s_11015001,"Pine River nr Jenkins, CSAH15",Minnesota DNR,Several years of seasonal data,Too much SW for base flows,no,no,yes,no,yes,13,,701,central,,,,,,,,,,
+s_12047001,"Partridge River nr Staples, CSAH29",Minnesota DNR,"Kind of flashy, but good enough low flows",Only seasonal records,yes,yes,yes,no,yes,11,,701,central,,,,,,,,,,
+s_16023001,"Getchell Creek nr New Munich, CR176",Minnesota DNR,"Some years really ugly, so be cautious",look carefully at each month before aggregating ,yes?,yes?,yes?,no,yes,17,,701,central,,,,,,,,,,
+s_17063001,"Mayhew Creek nr St. Cloud, CSAH8",Minnesota DNR,"Some years really ugly, so be cautious",look carefully at each month before aggregating ,yes?,yes?,yes?,no,yes,9,,701,central,,,,,,,,,,
+s_18066001,"North Fork Crow River nr Georgeville, CSAH19",Minnesota DNR,Needs data combined - no graphs yet,,?,?,?,No,?,14,,701,central,,,,,,,,,,
+s_18075003,"Wright CD31 nr Montrose, Armitage Rd",Minnesota DNR,"Low flows look ok, but need to clip carefully",can eke out some seasons,yes,yes,yes,no,yes,6,,701,central,,,,,,,,,,
+s_21021001,"Rum River nr Milaca, CSAH16",Minnesota DNR,Outlet from Mille lacs lake ,Try to do totals?   Lots of SW outflow,no,no,yes,no,yes,19,,701,central,,,,,,,,,,
+s_04025500,BOIS BRULE RIVER AT BRULE  WI,USGS,"LOTS of sustained base flow, very flat FDC",Good,yes,yes,yes,yes,yes,23,77,401,e-central,18.72,18.23,17.67,18.23,17.21,17.16,18.72,17.16,17.87,1.56
+s_04026005,BOIS BRULE RIVER NEAR LAKE SUPERIOR  WI,USGS,"Looks good, but short period of record, duplicative","Downstream of other Bois Brule, would need to subtract",yes,yes,yes,yes,yes,2,1,401,e-central,15.47,15.26,14.94,15.3,14.78,14.78,15.47,14.78,15.09,0.69
+s_04026160,SISKIWIT RIVER AT CORNUCOPIA  WI,USGS,LOTS of sustained base flow,Not a long period of record,yes,yes,yes,yes,yes,1,2,401,e-central,3.68,3.62,3.47,3.58,3.18,3.17,3.68,3.17,3.45,0.51
+s_040263205, WHITTLESEY CREEK NEAR ASHLAND  WI,USGS,"LOTS of base flow, VERY flat curve",GW shed might be bigger than SW shed,yes,yes,yes,yes,yes,23,22,401,e-central,7.08,7,6.88,6.97,6.79,6.79,7.08,6.79,6.92,0.29
+s_040263491, NORTH FISH CREEK NEAR MOQUAH  WI,USGS,"LOTS of base flow, VERY flat curve",,yes,yes,yes,yes,yes,9,12,401,e-central,12.58,12.3,12.06,12.32,11.55,11.52,12.58,11.52,12.06,1.06
+s_04026390,BEARTRAP CREEK AT U.S. HIGHWAY 2 NEAR ASHLAND  WI,USGS,The low flows are almost zero flow,VERY Flashy,yes,yes,yes,yes,yes,12,11,401,e-central,5.2,7.58,4.35,7.54,2.13,2.1,7.58,2.1,4.82,5.48
+s_04026450,BAD RIVER NEAR MELLEN  WI,USGS,"Not a lot of data, and a little funky at the end",End period looks weird.,no?,no?,yes,no,yes,2,5,401,e-central,13.04,12.3,10.19,12.19,7.73,7.69,13.04,7.69,10.52,5.35
+s_04026561,TYLER FORKS RIVER AT STRICKER ROAD NEAR MELLEN  WI,USGS,"Kind of flashy, but good enough low flows",Looks OK,yes,yes,yes,yes,yes,11,11,401,e-central,12.17,12.27,10.41,12.23,8.03,7.98,12.27,7.98,10.52,4.29
+s_04027500,WHITE RIVER NEAR ASHLAND  WI,USGS,Good low flow,Very jagged low flows,yes,yes,yes,yes,yes,23,74,401,e-central,10.13,9.68,9.01,9.67,8.61,8.6,10.13,8.6,9.28,1.53
+s_05331833,NAMEKAGON RIVER AT LEONARDS  WI,USGS,"LOTs of base flow, careful in deciding periods to use",Sandy AND lots of wetlands,yes?,yes,yes,maybe?,yes,23,21,703,e-central,13.61,13.32,12.8,13.31,12.53,12.44,13.61,12.44,13,1.17
+s_05341687,WILLOW RIVER AT STATE HIGHWAY 46 NEAR DEER PARK WI,USGS,Flashy but good base flow,Relatively short record,yes,yes,yes,yes,yes,4,3,703,e-central,4.03,4.25,3.82,4.25,3.38,3.37,4.25,3.37,3.85,0.88
+s_053416966, DRY RUN AT 190TH STREET NEAR JEWETT  WI,USGS,VERY low flow.  Probably doesn't go to SW?,May be lots of underflow,no,maybe?,no,maybe?,maybe?,6,6,703,e-central,0.49,1.24,0.65,1.13,0.24,0.24,1.24,0.24,0.66,1
+s_05342000,KINNICKINNIC RIVER NEAR RIVER FALLS  WI,USGS,Very sustained base flow,"some high peaks, but looks good",yes,yes,yes,yes,yes,20,24,703,e-central,8.41,8.37,8.27,8.38,8.16,8.16,8.41,8.16,8.29,0.25
+s_05355322,RUSH RIVER NEAR ESDAILE  WI,USGS,Short record but looks good.,Driftless area.,yes,yes,yes,yes,yes,2,1,704,e-central,6.48,6.41,6.36,6.47,6.31,6.26,6.48,6.26,6.38,0.22
+s_05357335,BEAR RIVER NEAR MANITOWISH WATERS  WI,USGS,VERY dominated by SW discharge,"Not a great site for low flows, just annual",no,no,yes,yes,yes,23,31,705,e-central,10.38,10.03,9.34,10.05,9.02,9.06,10.38,9.02,9.65,1.36
+s_05364128,DRYWOOD CREEK AT COVERED FOOTBRIDGE NR CADOTT  WI,USGS,"Record looks ok, but where is watershed?",by Cadot….,yes,yes,yes,yes,yes,2,2,705,e-central,7.32,7.52,7.04,7.58,5.27,5.26,7.58,5.26,6.66,2.32
+s_053674464, YELLOW RIVER AT BARRON  WI,USGS,Good base flow,Frac sand mining area?,yes,yes,yes,yes,yes,6,13,705,e-central,8.54,8.48,8.03,8.45,7.49,7.48,8.54,7.48,8.08,1.06
+s_053674967, TROUT CREEK AT TENTH STREET NEAR BLOOMER  WI,USGS,Good base flow,Also sandstone bedrock area,yes,yes,yes,yes,yes,7,6,705,e-central,9.36,9.86,8.98,9.82,8.21,8.19,9.86,8.19,9.07,1.67
+s_05368000,HAY RIVER AT WHEELER  WI,USGS,Good base flow,"Near previous 2, large watershed",yes,yes,yes,yes,yes,23,32,705,e-central,9.66,9.36,9.05,9.35,8.94,8.89,9.66,8.89,9.21,0.77
+s_05370000,EAU GALLE RIVER AT SPRING VALLEY  WI,USGS,Tons of flashy runoff but lots of consistent low flow.,Very interesting - keep an eye out for wierdness,yes,yes,yes,yes,yes,23,79,705,e-central,3.96,4.03,3.82,4,3.34,3.33,4.03,3.33,3.75,0.7
+s_05393500,SPIRIT RIVER AT SPIRIT FALLS  WI,USGS,"Pretty flashy, low base flow but OK",eastern edge in WI - high wate table?,yes,yes,yes,yes,yes,23,80,707,e-central,9.36,9.17,7.59,9.19,5.23,5.16,9.36,5.16,7.62,4.2
+s_05399500,BIG EAU PLEINE RIVER AT STRATFORD  WI,USGS,"Good base flow, but relatively low",Huge range in flows over hydrograph,yes,yes,yes,yes,yes,23,97,707,e-central,3.46,4.26,3.5,4.24,1.91,1.9,4.26,1.9,3.21,2.36
+s_04015330,KNIFE RIVER NEAR TWO HARBORS  MN,USGS,"Lots of low flow, pretty flashy",Fine to use,yes,yes,yes,yes,yes,23,49,401,no-east,7.54,7.68,6.14,7.72,3.99,3.97,7.72,3.97,6.17,3.75
+s_04015438,ST. LOUIS RIVER NEAR SKIBO  MN,USGS,"highs subdued, lows very high, looks like MAP","Not a great site for low flows, just annual",no,no,yes,yes,yes,11,12,401,no-east,10.23,10.2,7.56,10.15,6.57,6.39,10.23,6.39,8.52,3.84
+s_04021520,STONEY BROOK AT PINE DRIVE NEAR BROOKSTON  MN,USGS,"highs subdued, lows very high, looks like MAP","Not a great site for low flows, just annual",no,no,yes,yes,yes,16,17,401,no-east,9.27,8.8,7.06,8.8,6.09,6.14,9.27,6.09,7.69,3.18
+s_04024430,NEMADJI RIVER NEAR SOUTH SUPERIOR  WI,USGS,This one looks good,Looks OK,yes,yes,yes,yes,yes,23,49,401,no-east,7.73,7.26,6.19,7.22,4.97,4.96,7.73,4.96,6.39,2.77
+s_05212700,PRAIRIE RIVER NEAR TACONITE  MN,USGS,Quite a lot of SW storage runoff signal,Just do totals,no,no,yes,yes,yes,23,34,701,no-east,6.8,6.5,4.34,6.47,4.52,4.51,6.8,4.34,5.52,2.46
+s_05052500,"ANTELOPE CREEK AT DWIGHT, ND",USGS,"Monthly only, intermittent flow site",Maybe some season?  Lots of zero flows,yes?,yes,yes,no,yes,19,,902,no-west,,,,,,,,,,
+s_05060500,RUSH RIVER AT AMENIA  ND,USGS,"Very low flows, but let's try to keep",Might be impacted by withdrawals,maybe?,no,yes,yes,yes,23,76,902,no-west,0.8,0.97,0.52,0.97,0.32,0.32,0.97,0.32,0.65,0.65
+s_05061000,BUFFALO RIVER NEAR HAWLEY  MN,USGS,Looks good for base flow,,yes,yes,yes,yes,yes,23,72,902,no-west,3.3,3.02,2.47,3.03,2.25,2.28,3.3,2.25,2.72,1.05
+s_05061500,SOUTH BRANCH BUFFALO RIVER AT SABIN  MN,USGS,Looks fine - goes quite low,more flow in recent decades,yes,yes,yes,yes,yes,23,72,902,no-west,1.36,1.37,0.94,1.36,0.76,0.76,1.37,0.76,1.09,0.61
+s_05063398,S. BR. WILD RICE RIVER AT CO. RD. 27 NR FELTON  MN,USGS,"Low flows, but do-able",VERY Flashy,yes,yes,yes,yes,yes,18,19,902,no-west,2.27,2.37,1.66,2.34,1.07,1.12,2.37,1.07,1.81,1.3
+s_05078230,LOST RIVER AT OKLEE  MN,USGS,"Goes pretty low, but OK",more flow in recent decades,yes,yes,yes,yes,yes,23,61,902,no-west,2.54,2.31,1.79,2.29,1.42,1.38,2.54,1.38,1.96,1.16
+s_05085450,SNAKE RIVER ABOVE WARREN  MN,USGS,"Goes pretty low, but OK",Looks like there might be ice in winter,yes,yes,yes,maybe?,yes,14,14,902,no-west,2.59,2.71,1.85,2.73,1.19,1.18,2.73,1.18,2.04,1.55
+s_05104500,ROSEAU RIVER BELOW SOUTH FORK NEAR MALUNG  MN,USGS,"OK, good part of the state",Might have ice and/or wetland flows,yes,yes,yes,yes,yes,23,76,902,no-west,3.06,2.86,2.01,2.87,1.52,1.48,3.06,1.48,2.3,1.58
+s_05124480,KAWISHIWI RIVER NEAR ELY  MN,USGS,"LOTS of lakes, not good baseflow",Outside Open ET,no,no,yes,yes,yes,23,56,903,no-west,9.21,9.13,6.83,9.13,7.42,7.57,9.21,6.83,8.22,2.38
+s_05130500,STURGEON RIVER NEAR CHISHOLM  MN,USGS,Looks OK - maybe a bit of SW runoff,No big issues,yes,yes,yes,yes,yes,10,67,903,no-west,7.59,7.48,5.85,7.46,5.25,5.17,7.59,5.17,6.47,2.42
+s_05314510,CHETOMBA CREEK NEAR RENVILLE  MN,USGS,Good looking base flows,Short period of record,yes,yes,yes,yes,yes,2,2,702,so-central,2.48,2.48,1.94,2.34,1.33,1.3,2.48,1.3,1.98,1.18
+s_0531656290,WEST FORK BEAVER CREEK AT 320 ST. NEAR BECHYN  MN,USGS,Good looking base flows,Short period of record,yes,yes,yes,yes,yes,3,2,702,so-central,2.88,2.9,1.86,2.82,1.68,1.66,2.9,1.66,2.3,1.24
+s_05317200,LITTLE COTTONWOOD RIVER NEAR COURTLAND  MN,USGS,Looks pretty good,Missing record; funny middle section,yes,yes,yes,yes,yes,23,45,702,so-central,5.39,5.33,4.55,5.33,3.62,3.59,5.39,3.59,4.64,1.8
+s_05320270,LITTLE COBB RIVER NEAR BEAUFORD  MN,USGS,Looks fine,Karst region,yes,yes,yes,yes,yes,13,13,702,so-central,6.9,6.77,3.98,6.69,3.22,2.99,6.9,2.99,5.09,3.91
+s_05326189,SOUTH BRANCH RUSH RIVER AT CO RD 63 NR NORSELAND,USGS,Looks like good low flow,Short period but looks good,yes,yes,yes,yes,yes,3,2,702,so-central,3.66,3.56,2.56,3.53,1.99,1.97,3.66,1.97,2.88,1.69
+s_05327000,HIGH ISLAND CREEK NEAR HENDERSON  MN,USGS,Base flows look fine,Missing data in the wintertime many years,yes,yes,yes,maybe?,yes,20,38,702,so-central,5.19,5.18,4.21,5.17,3.08,3.13,5.19,3.08,4.33,2.11
+s_05353800,STRAIGHT RIVER NEAR FARIBAULT  MN,USGS,Looks pretty good,larger size river.  Definite snowmelt.,yes,yes,yes,yes,yes,23,57,704,so-central,7.13,6.53,5.57,6.48,4.79,4.74,7.13,4.74,5.87,2.39
+s_38025003,"Vermillion River nr Vermillion, CSAH85",Minnesota DNR,"Several good full years, baseflow looks OK",Check for sewage treament plant,yes,yes,yes,some,yes,23,,704,so-central,,,,,,,,,,
+s_39016001,"Little Cannon River nr Cannon Falls, CR24",Minnesota DNR,Base flows look fine,Driftless area. Some good whole years.,yes,yes,yes,some,yes,19,,704,so-central,,,,,,,,,,
+s_05372995,SOUTH FORK ZUMBRO RIVER AT ROCHESTER  MN,USGS,Looks fine to use.,exra water 2016-2019,yes,yes,yes,yes,yes,23,40,704,so-east,7.84,7.2,6.64,7.2,6.08,6.03,7.84,6.03,6.83,1.81
+s_05385500,SOUTH FORK ROOT RIVER NEAR HOUSTON  MN,USGS,Los of base flow.  Karst area,Low peaks in recent years.,yes,yes,yes,yes,yes,23,41,704,so-east,7.2,7.01,6.87,7.01,6.87,6.87,7.2,6.87,6.97,0.33
+s_05387440,Upper Iowa River at Bluffton  IA,USGS,Looks fine to use.,Karst region,yes,yes,yes,yes,yes,20,20,706,so-east,11.66,10.56,9.78,10.66,8.73,8.73,11.66,8.73,10.02,2.93
+s_05408000,KICKAPOO RIVER AT LA FARGE  WI,USGS,Definite consistent base flow,Flows increasing over decades,yes,yes,yes,yes,yes,23,32,707,so-east,9.44,9.12,8.96,9.11,8.79,8.78,9.44,8.78,9.03,0.66
+s_05290000,LITTLE MINNESOTA RIVER NEAR PEEVER  SD,USGS,Dryish low flows but looks ok otherwise,More water than previous decades,yes,yes,yes,yes,yes,23,68,702,so-west,1.36,1.28,1,1.28,0.74,0.73,1.36,0.73,1.07,0.63
+s_05291000,WHETSTONE RIVER NEAR BIG STONE CITY  SD,USGS,Flashy but good looking data,More water than previous decades,yes,yes,yes,yes,yes,23,92,702,so-west,1.32,1.24,1.11,1.26,0.83,0.82,1.32,0.82,1.1,0.5
+s_05293000,YELLOW BANK RIVER NEAR ODESSA  MN,USGS,Very similar to Whetstone,LOTS more water recently,yes,yes,yes,yes,yes,23,80,702,so-west,1.57,1.47,1.1,1.46,0.94,0.93,1.57,0.93,1.25,0.64
+s_05299650,LAC QUI PARLE RIVER NEAR PROVIDENCE  MN,USGS,"Similar to above, not very much data",Remove? Duplicative?,yes,yes,yes,no?,no?,2,1,702,so-west,1.48,1.37,1.18,1.39,0.78,1.12,1.48,0.78,1.22,0.7
+s_05299800,WEST BRANCH LAC QUI PARLE RIVER AT DAWSON  MN,USGS,"Similar to above, not very much data",Remove? Duplicative?,yes,yes,yes,no?,no?,2,1,702,so-west,1.01,0.93,0.62,0.95,0.61,0.6,1.01,0.6,0.79,0.41
+s_06480650,FLANDREAU CREEK ABOVE FLANDREAU SD,USGS,Looks ok - lower end of flows,high precip 2018-2020,yes,yes,yes,yes,yes,7,16,1017,so-west,3.59,3.81,3.05,3.81,2.39,2.31,3.81,2.31,3.16,1.5
+s_06481480,SKUNK CREEK NEAR CHESTER SD,USGS,Looks ok EXCEPT for 2019-2020 - very wet,Edge of prairie pothole region,yes,yes,yes,caution!,caution!,21,23,1017,so-west,2.77,2.57,1.87,2.55,1.7,1.71,2.77,1.7,2.19,1.07
+s_06482610,SPLIT ROCK CREEK AT CORSON SD,USGS,Lows are low but looks good,Extreme SW part of area,yes,yes,yes,yes,yes,21,44,1017,so-west,2.39,2.33,1.95,2.32,1.71,1.69,2.39,1.69,2.06,0.7
